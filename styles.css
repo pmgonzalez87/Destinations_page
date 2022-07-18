@@ -1,0 +1,15 @@
+.bg_color {
+  background-color: #e9ecef;
+}
+
+h4 {
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.submit_btn {
+  width: 100%;
+}
